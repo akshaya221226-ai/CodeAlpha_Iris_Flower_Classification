@@ -1,0 +1,16 @@
+IRIS FLOWER CLASSIFICATION REPORT
+============================================================
+
+Total dataset samples: 150
+Training samples: 120
+Testing samples: 30
+Model: Logistic Regression
+Accuracy: 96.67%
+
+Species:
+- Iris-setosa
+- Iris-versicolor
+- Iris-virginica
+
+Conclusion:
+The Logistic Regression model successfully classifies Iris flowers into three species using sepal and petal measurements. The model was evaluated using test data and accuracy, classification report, and confusion matrix.
